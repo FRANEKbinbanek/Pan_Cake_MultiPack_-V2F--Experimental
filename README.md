@@ -12,6 +12,6 @@ Planowane z update'm:
 -Czapka ze śmiegłem
 -Wiadro zakładane na głowę
 
-Planowana data aktualizacji paczki (od wersji "v1-05-02-2022" do "v2-14-02-2k22 - Frankowo Special (Java)"): 17.02.2022 - 20.02.2022,  26.02.2022 - 27.02.2022 
+Planowana data aktualizacji paczki (od wersji "v1-05-02-2022" do "v2-14-02-2k22 - Frankowo Special (Java)  (Multi-V2F)"): 17.02.2022 - 20.02.2022,  26.02.2022 - 27.02.2022 
 
 Problemy:  https://github.com/FRANEKbinbanek/Pan_Cake_MultiPack_v1-05-02-2022-Experimental/issues
