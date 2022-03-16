@@ -2,16 +2,14 @@ v1-05-02-2022-Experimental version
 
 Modele i tekstury: RANEKbinbanek
 
-Paczka tekstur zawiera:
-- Pantelnię
-- VR
-- Koronę
-- Miecz Świetlny
-- okulary
-Planowane z update'm:
--Czapka ze śmiegłem
--Wiadro zakładane na głowę
+Paczka tekstur zawiera (NAZWY ITEMÓW):
+- Pantelnia (diamond_sword)
+- VR (end_rod) [NA GŁOWĘ]
+- Korona (end_rod) [NA GŁOWĘ]
+- Miecz Swietlny (diamond_sword)
+- okulary (end_rod) [NA GŁOWĘ]
+- Mind-Control (end_rod) (ZGLITHOWANY!!!) [NA GŁOWĘ]
+- Wiadro (end_rod) [NA GŁOWĘ]
 
-Planowana data aktualizacji paczki (od wersji "v1-05-02-2022" do "v2-14-02-2k22 - Frankowo Special (Java)  (Multi-V2F)"): 17.02.2022 - 20.02.2022,  26.02.2022 - 27.02.2022 
 
 Problemy:  https://github.com/FRANEKbinbanek/Pan_Cake_MultiPack_v1-05-02-2022-Experimental/issues
