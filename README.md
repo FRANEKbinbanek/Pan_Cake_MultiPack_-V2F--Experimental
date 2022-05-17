@@ -14,4 +14,4 @@ Paczka tekstur zawiera (NAZWY ITEMÓW):
 
 Problemy:  https://github.com/FRANEKbinbanek/Pan_Cake_MultiPack_v1-05-02-2022-Experimental/issues
 
-Ze względu na błąd crash'ujący grę w wersji 1.18.2 zatrzymuję projekt do odwołania
+Ze względu na błąd crash'ujący grę w wersji i brak wolnego czasu 1.18.2 zatrzymuję projekt do odwołania
